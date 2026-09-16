@@ -1,0 +1,3 @@
+#!/bin/sh
+exec ti-tools convert "$1" -p --display-mode pretty
+
